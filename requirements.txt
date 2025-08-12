@@ -39,3 +39,4 @@ thinc<8.3.6
 selenium
 wget
 chromadb
+langchain_community
