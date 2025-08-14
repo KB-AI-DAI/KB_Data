@@ -34,7 +34,6 @@ ipdb
 debugpy
 qdrant-client
 pyarrow==14.0.1
-chromadb
 thinc<8.3.6
 selenium
 wget
